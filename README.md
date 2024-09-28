@@ -6,7 +6,5 @@
 #### Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=robertomiguez&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=robertomiguez&theme=city_lights)&nbsp;&nbsp;&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertomiguez&theme=city_lights&utcOffset=8)&nbsp;&nbsp;&nbsp;&nbsp;
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=robertomiguez&theme=city_lights)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=robertomiguez&theme=city_lights)&nbsp;&nbsp;&nbsp;&nbsp;
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=robertomiguez&theme=city_lights&utcOffset=8)
